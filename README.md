@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **REACT NATIVE**
 
-- 🌱 I’m currently learning **Frontend+Backend Stack Developer**
+- 🌱 I’m currently learning a  **Backend Developement**
 
 - 💬 Ask me about **Mongo DB , Express JS, Node JS**
 
