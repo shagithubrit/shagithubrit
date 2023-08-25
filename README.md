@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **REACT**
 
-- 🌱 I’m currently learning a  **Backend Developement**
+- 🌱 I’m currently learning a  **Backend Developement(JAVA)**
 
 - 💬 Ask me about **Mongo DB , Express JS, Node JS**
 
